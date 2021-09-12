@@ -9,7 +9,7 @@
 
 ## Made with
 
-* [Laavel]()
+* Laravel
 * []()
 * []()
 
