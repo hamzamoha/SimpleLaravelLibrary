@@ -34,3 +34,6 @@ After that create an admin using tinker:
   ```
 ## That's it
 The project is a prototype, so you can update it and costumize it as you want
+
+## Any suggestion
+If you face any error or vulnerability, email me at: <a href="mailto:hamzamoha123@gmail.com">hamzamoha123@gmail.com</a>
